@@ -1,0 +1,55 @@
+.body {
+    background-color: lightgray;
+    display: grid;
+   
+   }
+   
+   h1 {
+     text-align: center;
+     color: black;
+   }
+   
+   #hometown {
+     max-width: 350px;
+     border-radius: 50%;
+   }
+   
+   h2 {
+     color: black;
+   }
+   
+   div {
+     text-align: left;
+     font-family: roboto;
+     font-size: 18.5px;
+     color: black;
+   }
+   
+   #x {
+     max-width: 125px;
+   }
+   
+   #ig {
+     max-width: 65px;
+   }
+   
+   .navbar {
+     background-color: lightskyblue;
+     grid-area: auto;
+   }
+   
+   #linked-in {
+     max-width: 50px;
+   }
+
+   #links {
+    text-decoration: none;
+   }
+
+   .body_a {
+    background-color: lightcoral;
+   }
+
+   .rockstar {
+    max-width: 100px;
+   }
